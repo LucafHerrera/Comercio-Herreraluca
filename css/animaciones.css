@@ -1,0 +1,26 @@
+
+.seccion1:hover{
+	transform: translate(10px,5px);
+	cursor: pointer;
+}
+
+.seccion2:hover{
+	transform: translate(10px,5px);
+}
+.seccion3:hover{
+	transform: translate(10px,5px);
+}
+.seccion4:hover{
+	transform: translate(10px,5px);
+}
+
+@keyframes animatelogo{
+	25%{width: 50px;}
+	50%{width: 80px;}
+	75%{width: 50px;}
+	100%{width: 80px;}
+}
+
+.encabezado__logo{
+	
+}
